@@ -6,7 +6,7 @@
 # catalog-version 0.4
 Name:		texlive-bohr
 Version:	0.40
-Release:	3
+Release:	4
 Summary:	Simple atom representation according to the Bohr model
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bohr
