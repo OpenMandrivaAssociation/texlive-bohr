@@ -3,7 +3,7 @@ Version:	62977
 Release:	2
 Summary:	Simple atom representation according to the Bohr model
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bohr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bohr
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bohr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bohr.doc.r%{version}.tar.xz
